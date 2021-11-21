@@ -1,5 +1,5 @@
 {
-  "name": "learn-demo-project",
+  "name": "lerna-demo-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
